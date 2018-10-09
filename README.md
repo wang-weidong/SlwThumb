@@ -2,7 +2,7 @@
 
 Javascript picture thumb
 
-[Demo](http://htmlpreview.github.io/?https://github.com/wang-weidong/SlwThumb/blob/master/demo/index.html "Demo")
+[Demo](http://htmlpreview.github.io/?https://github.com/wang-weidong/SlwThumb/blob/master/demo/index.html?_blank "Demo")
 
 ## Browser Support ##
 - Internet Explorer: 6, 7, 8, 9, 10, 11
